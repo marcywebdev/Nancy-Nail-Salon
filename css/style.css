@@ -89,7 +89,7 @@ a:hover {
   right: 0;
 }
 .texture-geometry-shapes-2::before {
-  background: url('images/texture-geometry-shapes-2.png');
+  background: url('../images/texture-geometry-shapes-2.png');
   background-size: 200px 200px;
 }
 
